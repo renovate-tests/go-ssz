@@ -78,9 +78,9 @@ filegroup(
 
 http_archive(
     name = "io_kubernetes_build",
-    sha256 = "dd02a62c2a458295f561e280411b04d2efbd97e4954986a401a9a1334cc32cc3",
-    strip_prefix = "repo-infra-1b2ddaf3fb8775a5d0f4e28085cf846f915977a8",
-    url = "https://github.com/kubernetes/repo-infra/archive/1b2ddaf3fb8775a5d0f4e28085cf846f915977a8.tar.gz",
+    sha256 = "ff91c4eddf567c43b8a0fbeb5224fa0ca729a43381283b10d814bad649e50532",
+    strip_prefix = "repo-infra-f31e29e6e09bf38772f01599fb90cb2e8b1e15e5",
+    url = "https://github.com/kubernetes/repo-infra/archive/f31e29e6e09bf38772f01599fb90cb2e8b1e15e5.tar.gz",
 )
 
 go_repository(
