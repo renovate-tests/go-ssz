@@ -103,7 +103,7 @@ go_repository(
 
 go_repository(
     name = "in_gopkg_yaml_v2",
-    commit = "51d6538a90f86fe93ac480b35f37b2be17fef232",  # v2.2.2
+    commit = "1f64d6156d11335c3f22d9330b0ad14fc1e789ce",  # v2.2.7
     importpath = "gopkg.in/yaml.v2",
 )
 
